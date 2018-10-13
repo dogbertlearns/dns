@@ -1,0 +1,30 @@
+# =======================================================
+#PANDORA Portaller
+# =======================================================
+107.170.15.247 pandora.com
+107.170.15.247 tuner.pandora.com
+
+# =======================================================
+# EMAIL TRACKERS
+# =======================================================
+0.0.0.0 getsidekick.com
+0.0.0.0 bananatag.com
+0.0.0.0 boomeranggmail.com
+0.0.0.0 cirrusinsight.com
+0.0.0.0 yesware.com
+0.0.0.0 streak.com
+0.0.0.0 launchbit.com
+0.0.0.0 mailchimp.com
+0.0.0.0 postmarkapp.com
+0.0.0.0 icontact.com
+0.0.0.0 infusionsoft.com
+0.0.0.0 intercom.io
+0.0.0.0 mandrillapp.com
+0.0.0.0 hubspot.com
+0.0.0.0 relateiq.com
+0.0.0.0 rjmetrics.com
+0.0.0.0 mixpanel.com
+0.0.0.0 frontapp.com
+0.0.0.0 mailtrack.io
+0.0.0.0 toutapp.com
+0.0.0.0 outreach.io
